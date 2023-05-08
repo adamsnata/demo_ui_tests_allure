@@ -1,0 +1,6 @@
+{'level': 'WARNING', 'message': 'https://staya.dog/_nuxt/fba6386.js 1:484416 "Getter `basket/items` is deprecated. Use `basket/lines` instead."', 'source': 'console-api', 'timestamp': 1683526750012}
+{'level': 'WARNING', 'message': 'https://staya.dog/_nuxt/fba6386.js 1:484416 "Getter `basket/items` is deprecated. Use `basket/lines` instead."', 'source': 'console-api', 'timestamp': 1683526750111}
+{'level': 'WARNING', 'message': 'https://staya.dog/checkout - Each dictionary in the list "icons" should contain a non-empty UTF8 string field "sizes".', 'source': 'other', 'timestamp': 1683526751273}
+{'level': 'WARNING', 'message': 'https://staya.dog/checkout - Each dictionary in the list "icons" should contain a non-empty UTF8 string field "type".', 'source': 'other', 'timestamp': 1683526751273}
+{'level': 'WARNING', 'message': 'https://staya.dog/checkout - Each dictionary in the list "icons" should contain a non-empty UTF8 string field "sizes".', 'source': 'other', 'timestamp': 1683526751550}
+{'level': 'WARNING', 'message': 'https://staya.dog/checkout - Each dictionary in the list "icons" should contain a non-empty UTF8 string field "type".', 'source': 'other', 'timestamp': 1683526751550}
